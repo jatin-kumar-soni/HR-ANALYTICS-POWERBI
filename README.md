@@ -26,7 +26,19 @@ Interactive Power BI report analyzing employee attrition and workforce patterns.
 - `HR_Analytics.pbix` — Power BI Desktop report (open in Power BI Desktop)
 - `HR_Analytics.csv` — dataset used to build the report (employee-level CSV)
 - `hr.png`, `rnd.png`, `sales.png` — screenshots of dashboard pages
-- `DATA_DICTIONARY.md` — detailed data dictionary and cleaning notes (included for reference)
+
+---
+
+## Preview
+<p align="center">
+  <img src="hr.png" alt="Human Resources" width="720" />
+</p>
+<p align="center">
+  <img src="rnd.png" alt="Research & Development" width="720" />
+</p>
+<p align="center">
+  <img src="sales.png" alt="Sales" width="720" />
+</p>
 
 ---
 
