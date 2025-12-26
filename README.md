@@ -1,5 +1,9 @@
 # HR Analytics Dashboard — Power BI
 
+<p align="center">
+  <a href="./HR_Analytics.pbix"><img src="https://img.shields.io/badge/Download-.pbix-blue?style=flat&logo=microsoft-power-bi" alt="Download PBIX" /></a>
+</p>
+
 ## Project overview
 Interactive Power BI report analyzing employee attrition and workforce patterns. The report highlights where attrition is concentrated (by age, job role, salary band, tenure, department and other people dimensions) so HR and business leaders can prioritize retention actions.
 
