@@ -1,8 +1,9 @@
 # HR Analytics Dashboard — Power BI
 
 <p align="center">
-  <a href="./HR_Analytics.pbix"><img src="https://img.shields.io/badge/Download-.pbix-blue?style=flat&logo=microsoft-power-bi" alt="Download PBIX" /></a>
+  <a href="./HR_ANALYTICS.pbix"><img src="https://img.shields.io/badge/Download-.pbix-blue?style=flat&logo=microsoft-power-bi" alt="Download PBIX" /></a>
 </p>
+<p align="center"><sub>If GitHub shows a 404 when you click the file, use the raw download: <a href="https://raw.githubusercontent.com/jatin-kumar-soni/HR-ANALYTICS-POWERBI/main/HR_ANALYTICS.pbix">Download .pbix (raw)</a></sub></p>
 
 ## Project overview
 Interactive Power BI report analyzing employee attrition and workforce patterns. The report highlights where attrition is concentrated (by age, job role, salary band, tenure, department and other people dimensions) so HR and business leaders can prioritize retention actions.
@@ -27,7 +28,7 @@ Interactive Power BI report analyzing employee attrition and workforce patterns.
 ---
 
 ## Files included
-- `HR_Analytics.pbix` — Power BI Desktop report (open in Power BI Desktop)
+- `HR_ANALYTICS.pbix` — Power BI Desktop report (open in Power BI Desktop)
 - `HR_Analytics.csv` — dataset used to build the report (employee-level CSV)
 - `hr.png`, `rnd.png`, `sales.png` — screenshots of dashboard pages
 
@@ -79,7 +80,8 @@ Interactive Power BI report analyzing employee attrition and workforce patterns.
 
 ## How to open and use the report
 1. Install Power BI Desktop (https://powerbi.microsoft.com/).  
-2. Open `HR_Analytics.pbix` (file size: 0.16 MB).  
-3. Preview screenshots are included: `hr.png`, `rnd.png`, `sales.png`.  
-4. Use top-level slicers (Department, JobRole, AgeGroup, SalarySlab) and hover to inspect tooltips and value details.  
-5. To share: File → Publish → Power BI Service and share via a workspace or an app.  
+2. Open `HR_ANALYTICS.pbix` (file size: 0.16 MB).  
+3. If clicking the file in GitHub returns a 404 page, use the direct raw link: `https://raw.githubusercontent.com/jatin-kumar-soni/HR-ANALYTICS-POWERBI/main/HR_ANALYTICS.pbix`  
+4. Preview screenshots are included: `hr.png`, `rnd.png`, `sales.png`.  
+5. Use top-level slicers (Department, JobRole, AgeGroup, SalarySlab) and hover to inspect tooltips and value details.  
+6. To share: File → Publish → Power BI Service and share via a workspace or an app.  
