@@ -67,27 +67,3 @@ Interactive Power BI report analyzing employee attrition and workforce patterns.
 3. Preview screenshots are included: `hr.png`, `rnd.png`, `sales.png`.  
 4. Use top-level slicers (Department, JobRole, AgeGroup, SalarySlab) and hover to inspect tooltips and value details.  
 5. To share: File → Publish → Power BI Service and share via a workspace or an app.  
-
-**Important:** GitHub does not render Power BI (.pbix) files. To view or interact with the report, download the `.pbix` file and open it in Power BI Desktop, or publish it to Power BI Service. You can also export report pages to PDF from Power BI Desktop for quick read-only previews.
-
----
-
-## Reproducibility & next steps
-- If you want the repository to be fully reproducible, include `HR_Analytics.csv` under a `data/` folder and add a `requirements.txt` (if any scripts were used).  
-- Suggested enhancements: add cohort analysis, tenure-based retention models, manager-level dashboards, and attrition forecasting.
-
----
-
-## How to contribute
-- Add issues describing new visuals or data fields to include.  
-- If you update data or add transformations, document them in the `DATA_DICTIONARY.md` or add a `CHANGELOG.md` entry.
-
----
-
-## License & contact
-- Add a license file if you want others to reuse this work (MIT is common).  
-- Author: Jatin Kumar Soni — MCA Student | Power BI & Data Analytics
-
----
-
-If you want, I can: add a short summary table of missing-values per column into this README, or convert `DATA_DICTIONARY.md` content into a compact table and merge it here before you push.
